@@ -1,0 +1,10 @@
+{
+    "Frontend": true,
+    "Pendaftaran": true,
+    "PPDB": true,
+    "Perpustakaan": true,
+    "Murid": true,
+    "SPP": true,
+    "Kelas": true,
+    "Guru": true
+}
